@@ -6,15 +6,15 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				'accent-1': '#FAFAFA',
-				'accent-2': '#EAEAEA',
-				'accent-7': '#333',
-				success: '#0070f3',
+				'accent-1': '#ECA3CB',
+				'accent-2': '#C4507C',
+				'accent-7': '#FF00FF',
+				success: '#94C930',
 				cyan: '#79FFE1',
 				primary: colors.blue,
 			},
 			spacing: {
-				28: '7rem',
+				28: '10rem',
 			},
 			letterSpacing: {
 				tighter: '-.04em',
@@ -23,10 +23,10 @@ module.exports = {
 				tight: 1.2,
 			},
 			fontSize: {
-				'5xl': '2.5rem',
-				'6xl': '2.75rem',
-				'7xl': '4.5rem',
-				'8xl': '6.25rem',
+				'5xl': '2rem',
+				'6xl': '3rem',
+				'7xl': '5rem',
+				'8xl': '7rem',
 			},
 			boxShadow: {
 				sm: '0 5px 10px rgba(0, 0, 0, 0.12)',
